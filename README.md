@@ -4,7 +4,7 @@
 
 ## Description
 
-This VBA scripting is used to analyse generated stock market data.
+This VBA scripting is used to analyze generated stock market data. The script will give ticker names, yearly changes, percentage changes, and total stock volume.
 
 ---
 
