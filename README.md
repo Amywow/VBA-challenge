@@ -4,43 +4,28 @@
 
 ## Description
 
-This VBA scripting is used to analyze generated stock market data. The script will give ticker names, yearly changes, percentage changes, and total stock volume.
+This Python scripting is used to  analyze financial records and votes. Two datasets are related to this code, inside the Pybank folder, the resources folder contains a csv file called budget_data.csv. Similar to Pybank, PyPoll has a election.csv file. The python codes are saved in two file called main.py separately. The results of code will save in Analysis folder in both folders 
 
----
-
-## Installation
-
-To use the VBA Factorial Calculator, follow these steps:
-
-1. Open Microsoft Excel.
-
-2. Open the Visual Basic for Applications (VBA) editor.
-
-3. In the VBA editor, click on `Insert` and then `Module` to insert a new module.
-
-4. Copy and paste the VBA code from the [ChallengeTwo.vba] file into the newly inserted module.
-
-5. Close the VBA editor.
 
 
 ---
 
 ## Usage
 
-1. Open Excel spreadsheet containing the number
-2. Open the "Macro" dialog box.
-3. Select the "Stock" macro from the list and click "Run."
-4. The result will come out
+1. Open Visula Studio
+2. Import main.py
+3. Run the code
+4. Check txt file in Analysis folder
 
 ---
 
 ## Contributing
 
-Contributions to the VBA-ChallengeTwo project are welcome! If you'd like to contribute, follow these steps:
+Contributions to the python_challenge project are welcome! If you'd like to contribute, follow these steps:
 
 1. Fork the repository.
 
-2. Make your changes or improvements to the `ChallengeTwo.vba` file.
+2. Make your changes or improvements 
 
 3. Submit a pull request to the main repository.
 
@@ -50,4 +35,4 @@ Please ensure that your code follows the VBA coding conventions and is well-docu
 ---
 
 ## Credits
-The VBA script was created and is maintained by Chang Yu.
+The Python script was created and is maintained by Chang Yu.
